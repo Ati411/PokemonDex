@@ -1,0 +1,17 @@
+D:\Code\C#\PokemonDexx\PokemonDexx\bin\Debug\net8.0-windows\PokemonDexx.exe
+D:\Code\C#\PokemonDexx\PokemonDexx\bin\Debug\net8.0-windows\PokemonDexx.deps.json
+D:\Code\C#\PokemonDexx\PokemonDexx\bin\Debug\net8.0-windows\PokemonDexx.runtimeconfig.json
+D:\Code\C#\PokemonDexx\PokemonDexx\bin\Debug\net8.0-windows\PokemonDexx.dll
+D:\Code\C#\PokemonDexx\PokemonDexx\bin\Debug\net8.0-windows\PokemonDexx.pdb
+D:\Code\C#\PokemonDexx\PokemonDexx\obj\Debug\net8.0-windows\PokemonDexx.Form1.resources
+D:\Code\C#\PokemonDexx\PokemonDexx\obj\Debug\net8.0-windows\PokemonDexx.Resource1.resources
+D:\Code\C#\PokemonDexx\PokemonDexx\obj\Debug\net8.0-windows\PokemonDexx.csproj.GenerateResource.cache
+D:\Code\C#\PokemonDexx\PokemonDexx\obj\Debug\net8.0-windows\PokemonDexx.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\PokemonDexx\PokemonDexx\obj\Debug\net8.0-windows\PokemonDexx.AssemblyInfoInputs.cache
+D:\Code\C#\PokemonDexx\PokemonDexx\obj\Debug\net8.0-windows\PokemonDexx.AssemblyInfo.cs
+D:\Code\C#\PokemonDexx\PokemonDexx\obj\Debug\net8.0-windows\PokemonDexx.csproj.CoreCompileInputs.cache
+D:\Code\C#\PokemonDexx\PokemonDexx\obj\Debug\net8.0-windows\PokemonDexx.dll
+D:\Code\C#\PokemonDexx\PokemonDexx\obj\Debug\net8.0-windows\refint\PokemonDexx.dll
+D:\Code\C#\PokemonDexx\PokemonDexx\obj\Debug\net8.0-windows\PokemonDexx.pdb
+D:\Code\C#\PokemonDexx\PokemonDexx\obj\Debug\net8.0-windows\PokemonDexx.genruntimeconfig.cache
+D:\Code\C#\PokemonDexx\PokemonDexx\obj\Debug\net8.0-windows\ref\PokemonDexx.dll
