@@ -73,7 +73,7 @@
               "RelativeDocumentMoniker": "PokemonDexx\\Form1.cs",
               "ToolTip": "D:\\Code\\C#\\PokemonDexx\\PokemonDexx\\Form1.cs",
               "RelativeToolTip": "PokemonDexx\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAABoAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T13:00:25.857Z",
               "IsPinned": true,
@@ -90,8 +90,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T11:05:43.526Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -107,8 +106,7 @@
               "RelativeToolTip": "PokemonDexx\\Luvdisc.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T12:22:41.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T12:22:41.454Z"
             },
             {
               "$type": "Document",
@@ -120,8 +118,7 @@
               "RelativeToolTip": "PokemonDexx\\Swirlix.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T12:20:12.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T12:20:12.224Z"
             },
             {
               "$type": "Document",
@@ -133,8 +130,7 @@
               "RelativeToolTip": "PokemonDexx\\Diglett.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T12:05:17.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T12:05:17.129Z"
             },
             {
               "$type": "Document",
@@ -146,8 +142,7 @@
               "RelativeToolTip": "PokemonDexx\\Unown.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:35:50.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T11:35:50.479Z"
             },
             {
               "$type": "Document",
@@ -159,8 +154,7 @@
               "RelativeToolTip": "PokemonDexx\\Snorlax.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:32:27.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T11:32:27.219Z"
             },
             {
               "$type": "Document",
@@ -172,8 +166,7 @@
               "RelativeToolTip": "PokemonDexx\\Pikachu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:09:53.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T11:09:53.732Z"
             }
           ]
         }
